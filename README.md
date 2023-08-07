@@ -1,4 +1,4 @@
-<center><img width="700" src="img/deep.jpg"></center>
+<center><img width="200" src="img/deep.jpg"></center>
 <center>
 
 
