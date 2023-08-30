@@ -29,7 +29,7 @@ Week 01 - Introduction [[Slide]](https://github.com/terrematte/deeplearning/blob
     - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
     - :facepunch: U1T1: guided project + getting a git repository.
 
-Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/terrematte/deeplearning/blob/main/weeks_02_03/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
+Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/terrematte/deeplearning/blob/main/week_02-03/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
  - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
  - The perceptron [[Video]](https://www.loom.com/share/bccf2bc2c7f24652b7b3b73825e0100f)
  - Building Neural Networks [[Video]](https://www.loom.com/share/f0ca49107b52458699210cbda8d3cb76)
@@ -40,13 +40,13 @@ Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/terre
  - Learning rate & Batch Size [[Video]](https://www.loom.com/share/183248cfec9f46a5bc0ae7ec410aa291)
  - Exponentially Weighted Average [[Video]](https://www.loom.com/share/b84b1452ab5d4193b63481910d9323b1)
  - Adam, Momentum, RMSProp, Learning Rate Decay [[Video]](https://www.loom.com/share/101a5956c6f04d31843f37c4be089978)
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
- [TensorFlow Crash Course](https://github.com/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb) [Fundamentals of TensorFlow](https://github.com/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb)
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb) [Optimization Methods](https://github.com/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb)
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb) [Better Learning - Part I](https://github.com/terrematte/deeplearning/blob/main/weeks_02_03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
+ [TensorFlow Crash Course](https://github.com/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2001%20-%20TensorFlow%202.x%20%2B%20Keras%20Crash%20Course.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb) [Fundamentals of TensorFlow](https://github.com/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2002%20-%20Introduction%20to%20TF.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb) [Optimization Methods](https://github.com/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2003%20-%20Optimization%20Methods.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb) [Better Learning - Part I](https://github.com/terrematte/deeplearning/blob/main/week_02-03/Notebooks/Week%2002%20Task%2004%20-%20Better%20Learning%20part%20I.ipynb)
 
-Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.com/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2303_04%20Better%20Deep%20Learning.pdf)
+Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.com/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2303_04%20Better%20Deep%20Learning.pdf)
 - Better Generalization
 	- Outline [[Video]](https://www.loom.com/share/1d6cee38eed94354bda412fd19e89308)
 	- Spliting Data [[Video]](https://www.loom.com/share/436be4492b0549baba57c52d40941cc3)
@@ -56,15 +56,15 @@ Weeks 04 & 05 Better Generalization vs Better Learning [[Slide]](https://github.
   	- Dropout [[Video]](https://www.loom.com/share/c32f0a35d56b426ca988e05926787936)
   	- Promote Robustness with Noise [[Video]](https://www.loom.com/share/ed48470b14a3460eac572dcf9d8838c9)
   	- Early Stopping [[Video]](https://www.loom.com/share/c738eed439a34794a6b99c555b99afad)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb) [Better Generalization - Part I](https://github.com/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2302%20Better%20Generalization%20II.ipynb) [Better Generalization - Part II](https://github.com/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2302%20Better%20Generalization%20II.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb) [Better Generalization - Part I](https://github.com/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2301%20Better%20Generalization%20I.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2302%20Better%20Generalization%20II.ipynb) [Better Generalization - Part II](https://github.com/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2302%20Better%20Generalization%20II.ipynb)
 - Better Learning
   	- Data scaling [[Video]](https://www.loom.com/share/7008b640440d412498578e27b8557471)
   	- Vanishing/Exploding Gradient [[Video]](https://www.loom.com/share/fb427d71b7a74e2dab226445941d2d41)
   	- Fix Vanishing Gradient with Relu [[Video]](https://www.loom.com/share/0cdfb9ba531540fca075444f7d732fc6)
   	- Fix Exploding Gradient with Gradient Clipping [[Video]](https://www.loom.com/share/2b560922401442b7b078faf06801a3ad)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2303%20Better%20Learning%20II.ipynb) [Better Learning - Part II](https://github.com/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2303%20Better%20Learning%20II.ipynb)
-	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb) [Better Learning - Part III](https://github.com/terrematte/deeplearning/blob/main/weeks_04_05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2303%20Better%20Learning%20II.ipynb) [Better Learning - Part II](https://github.com/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2303%20Better%20Learning%20II.ipynb)
+	- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb) [Better Learning - Part III](https://github.com/terrematte/deeplearning/blob/main/week_04-05/Weeks%20%2304_05%20Task%20%2304%20Better%20Learning%20III.ipynb)
 
 Week 06 - Hyperparameter Tuning & Batch Normalization [[Slide]](https://github.com/terrematte/deeplearning/blob/main/week_06/Week%20%2306%20Hyperparameter%20Tuning%20and%20Batch%20Normalization.pdf)
 
